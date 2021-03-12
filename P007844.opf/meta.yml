@@ -5,46 +5,54 @@ source_metadata:
   title: ཤེར་ཕྱིན་རྩ་བ་དང་འགྲེལ་པ།
   author: ''
   volumes:
-    9faa2f081f1e4bd48ef84ee0aa3e6ccb:
+    32bdd421fdf74177bf451dceb7aac960:
       image_group_id: I8LS16753
-      title: ''
+      title: Volume 1 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 1
       total_pages: 330
-    390b4155fb5a436294aa38ca14a283ff:
+      base_file: v001.txt
+    63c60d5cbdd0434eac6841b5b12d30b0:
       image_group_id: I8LS16754
-      title: ''
+      title: Volume 2 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 2
       total_pages: 176
-    83bdb2d93a024d22b01687481c311dbe:
+      base_file: v002.txt
+    e0f742ca109e4766b2d9f35c08a6b845:
       image_group_id: I8LS16755
-      title: ''
+      title: Volume 3 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 3
       total_pages: 128
-    ea34ce61a9c0402ba28db673f5021614:
+      base_file: v003.txt
+    7aaa33c1d22341e682c2c449ae73e739:
       image_group_id: I8LS16756
-      title: ''
+      title: Volume 4 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 4
       total_pages: 180
-    29ab6a0b759d4ae0b4cab31ac81caea1:
+      base_file: v004.txt
+    ce5f5cc3a4204575be47a1ed853dd660:
       image_group_id: I8LS16757
-      title: ''
+      title: Volume 5 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 5
       total_pages: 54
-    4e51fba3ad424ba5be1b5eecdf39400b:
+      base_file: v005.txt
+    d974690f03ca4974a550bc2d21e045cb:
       image_group_id: I8LS16758
-      title: ''
+      title: Volume 6 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 6
       total_pages: 176
-    ff6cfa0c08b14c2c8f1e90ca28890e05:
+      base_file: v006.txt
+    b216b56a516f4c23b3a12428e0081dc6:
       image_group_id: I8LS16759
-      title: ''
+      title: Volume 7 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 7
       total_pages: 60
-    b646a74e089241d592cb2dfa243e5a80:
+      base_file: v007.txt
+    5daa662d762e4a2ea48f747b45eb7c91:
       image_group_id: I8LS16760
-      title: ''
+      title: Volume 8 of sher phyin rtsa ba dang 'grel pa/
       volume_number: 8
       total_pages: 60
+      base_file: v008.txt
 ebook_metadata:
   title: ཤེར་ཕྱིན་རྩ་བ་དང་འགྲེལ་པ།
   author: ''
