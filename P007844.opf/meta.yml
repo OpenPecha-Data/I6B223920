@@ -1,5 +1,7 @@
 id: P007844
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W8LS16741
   title: ཤེར་ཕྱིན་རྩ་བ་དང་འགྲེལ་པ།
@@ -53,10 +55,3 @@ source_metadata:
       volume_number: 8
       total_pages: 60
       base_file: v008.txt
-ebook_metadata:
-  title: ཤེར་ཕྱིན་རྩ་བ་དང་འགྲེལ་པ།
-  author: ''
-  sku: P007844
-  cover: cover.jpg
-  layers:
-  - pagination
