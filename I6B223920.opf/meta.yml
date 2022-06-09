@@ -1,59 +1,69 @@
-id: P007844
+id: I6B223920
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 21/03/2020
-last_modified_at: 2021-12-17 12:44:35.276515
+imported: '2020-03-21T15:30:25+00:00'
+last_modified: '2022-06-09T06:30:12.336078+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W8LS16741
   title: ཤེར་ཕྱིན་རྩ་བ་དང་འགྲེལ་པ།
   author: ''
-  volumes:
-    32bdd421fdf74177bf451dceb7aac960:
-      image_group_id: I8LS16753
-      title: Volume 1 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 1
-      total_pages: 330
-      base_file: v001.txt
-    63c60d5cbdd0434eac6841b5b12d30b0:
-      image_group_id: I8LS16754
-      title: Volume 2 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 2
-      total_pages: 176
-      base_file: v002.txt
-    e0f742ca109e4766b2d9f35c08a6b845:
-      image_group_id: I8LS16755
-      title: Volume 3 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 3
-      total_pages: 128
-      base_file: v003.txt
-    7aaa33c1d22341e682c2c449ae73e739:
-      image_group_id: I8LS16756
-      title: Volume 4 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 4
-      total_pages: 180
-      base_file: v004.txt
-    ce5f5cc3a4204575be47a1ed853dd660:
-      image_group_id: I8LS16757
-      title: Volume 5 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 5
-      total_pages: 54
-      base_file: v005.txt
-    d974690f03ca4974a550bc2d21e045cb:
-      image_group_id: I8LS16758
-      title: Volume 6 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 6
-      total_pages: 176
-      base_file: v006.txt
-    b216b56a516f4c23b3a12428e0081dc6:
-      image_group_id: I8LS16759
-      title: Volume 7 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 7
-      total_pages: 60
-      base_file: v007.txt
-    5daa662d762e4a2ea48f747b45eb7c91:
-      image_group_id: I8LS16760
-      title: Volume 8 of sher phyin rtsa ba dang 'grel pa/
-      volume_number: 8
-      total_pages: 60
-      base_file: v008.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: false
+  base:
+    '9848':
+      image_group_id: I8LS16753
+      title: Volume 1 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 330
+      order: 1
+      base_file: 9848.txt
+    0A13:
+      image_group_id: I8LS16754
+      title: Volume 2 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 176
+      order: 2
+      base_file: 0A13.txt
+    01DD:
+      image_group_id: I8LS16755
+      title: Volume 3 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 128
+      order: 3
+      base_file: 01DD.txt
+    B9EB:
+      image_group_id: I8LS16756
+      title: Volume 4 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 180
+      order: 4
+      base_file: B9EB.txt
+    F2D1:
+      image_group_id: I8LS16757
+      title: Volume 5 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 54
+      order: 5
+      base_file: F2D1.txt
+    64A5:
+      image_group_id: I8LS16758
+      title: Volume 6 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 176
+      order: 6
+      base_file: 64A5.txt
+    C6D6:
+      image_group_id: I8LS16759
+      title: Volume 7 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 60
+      order: 7
+      base_file: C6D6.txt
+    '6196':
+      image_group_id: I8LS16760
+      title: Volume 8 of sher phyin rtsa ba dang 'grel pa/
+      total_pages: 60
+      order: 8
+      base_file: 6196.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
